@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋
+-->
+### Make the most of now.
 
 <!--
 **Vlad-34/Vlad-34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
