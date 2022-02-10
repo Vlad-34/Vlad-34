@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋
 -->
-### Make the most of now.
+### Team Player, Fast Learner, Critical Thinker and Problem Solver
+### Sophomore Technical University of Cluj-Napoca Computer Engineering Student
 
 <!--
 **Vlad-34/Vlad-34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
