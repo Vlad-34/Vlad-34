@@ -49,17 +49,17 @@ Troubleshot and resolved hardware and software issues, ensuring minimal downtime
 
 ## HONOURS AND AWARDS
 
-### Build IT at Home (Nov 2021)
-**STRATEC Biomedical Romania**
-- Collaboratively developed an AI-driven diabetes prediction system as part of Team Sky.
-- Engineered a robust, scalable solution utilizing a diverse tech stack including Raspberry Pi, Arduino, tkinter, Firebase Admin SDK, and scikit-learn for seamless integration and predictive analytics.
-- Integrated multiple sensors such as Blood Pressure Monitors, Glucometers, and Calipers into a user-friendly point-of-care device, enhancing the system's predictive accuracy and diagnostic capabilities to support comprehensive health assessments.
-
 ### NextIng Scholarship (Dec 2024)
 **Technical University of Cluj-Napoca**
 - Awarded the TUCN NextIng Scholarship 2024 for my bachelor thesis, "Optimization of Urban Spaces: Classification of Electric Scooter Parking Using Deep Learning Techniques".
 - My thesis addressed urban space optimization by developing a deep learning solution using a SqueezeNet model trained on a custom dataset to classify and optimize electric scooter parking. I implemented a full-stack application with a user-friendly interface and Firebase backend for real-time communication, ensuring practical usability and support for the end-users.
 - This award is not just a recognition of my academic effort but a validation of my idea and its implementation by leading companies and industry experts. It underscores the real-world potential of my project and the value of using innovative AI solutions to solve urban planning challenges.
+
+### Build IT at Home (Nov 2021)
+**STRATEC Biomedical Romania**
+- Collaboratively developed an AI-driven diabetes prediction system as part of Team Sky.
+- Engineered a robust, scalable solution utilizing a diverse tech stack including Raspberry Pi, Arduino, tkinter, Firebase Admin SDK, and scikit-learn for seamless integration and predictive analytics.
+- Integrated multiple sensors such as Blood Pressure Monitors, Glucometers, and Calipers into a user-friendly point-of-care device, enhancing the system's predictive accuracy and diagnostic capabilities to support comprehensive health assessments.
 
 ---
 
