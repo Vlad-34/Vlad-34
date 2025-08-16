@@ -30,12 +30,12 @@ My goal is to leverage my technical expertise and desire for progress to contrib
 
 ### Working Student (Jul 2024 – Present)
 **Bosch Romania**, Cluj-Napoca, Romania
-- Experimented with automotive Electronic Control Units for Computer Vision purposes and the algorithms running on them.
-Troubleshot and resolved hardware and software issues, ensuring minimal downtime for end-users.
+- Supported ad-hoc requests, such as restoring corrupted files or reconfiguring misbehaving systems, to address business needs.
+- Troubleshot and resolved hardware and software issues, ensuring minimal downtime for end-users.
 - Diagnosed connectivity issues, optimized network settings, and implemented workarounds to overcome restrictions in a tightly controlled environment.
 - Patched and updated operating systems and applications, ensuring system security and compatibility where automated tools or hardware have failed.
-- Supported ad-hoc requests, such as restoring corrupted files or reconfiguring misbehaving systems, to address business needs.
 - Documented recurring issues and created step-by-step guides to streamline problem-solving for similar cases in the future.
+- Experimented with automotive Electronic Control Units for Computer Vision purposes and the algorithms running on them.
 
 ### DevOps Engineer Intern (Jul 2023 – Aug 2023)
 **Nagarro**, Cluj-Napoca, Romania
