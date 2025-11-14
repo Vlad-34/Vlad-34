@@ -35,7 +35,6 @@ My goal is to leverage my technical expertise and desire for progress to contrib
 - Diagnosed connectivity issues, optimized network settings, and implemented workarounds to overcome restrictions in a tightly controlled environment.
 - Patched and updated operating systems and applications, ensuring system security and compatibility where automated tools or hardware have failed.
 - Documented recurring issues and created step-by-step guides to streamline problem-solving for similar cases in the future.
-- Experimented with automotive Electronic Control Units for Computer Vision purposes and the algorithms running on them.
 
 ### DevOps Engineer Intern (Jul 2023 – Aug 2023)
 **Nagarro**, Cluj-Napoca, Romania
