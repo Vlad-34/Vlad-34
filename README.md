@@ -28,13 +28,13 @@ My goal is to leverage my technical expertise and desire for progress to contrib
 
 ## WORK EXPERIENCE
 
-### Working Student (Jul 2024 – Present)
+### SysAdmin (Jul 2024 – Present)
 **Bosch Romania**, Cluj-Napoca, Romania
-- Supported ad-hoc requests, such as restoring corrupted files or reconfiguring misbehaving systems, to address business needs.
-- Troubleshot and resolved hardware and software issues, ensuring minimal downtime for end-users.
-- Diagnosed connectivity issues, optimized network settings, and implemented workarounds to overcome restrictions in a tightly controlled environment.
-- Patched and updated operating systems and applications, ensuring system security and compatibility where automated tools or hardware have failed.
-- Documented recurring issues and created step-by-step guides to streamline problem-solving for similar cases in the future.
+- Performed system-level diagnostics and advanced data recovery to restore corrupted files and reconfigure misbehaving systems.
+- Diagnosed and resolved complex hardware and software issues across workstations and servers to ensure system availability.
+- Managed and diagnosed network connectivity, optimizing settings (e.g., DNS, DHCP, proxy) to maintain stability in a highly restricted environment.
+- Managed the system patching lifecycle, manually remediating vulnerabilities on OS and applications where automated tools failed.
+- Authored and maintained technical documentation and Standard Operating Procedures (SOPs) to standardize incident response.
 
 ### DevOps Engineer Intern (Jul 2023 – Aug 2023)
 **Nagarro**, Cluj-Napoca, Romania
