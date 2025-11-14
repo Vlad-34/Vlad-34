@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋
 -->
 ## ABOUT ME
-As a driven and ambitious Computer Science graduate, I have a strong passion for Cybersecurity and Software Engineering. My studies and dedication have given me a solid understanding of these fields and the latest technologies. I am constantly seeking new challenges and opportunities to expand my skills and make a meaningful impact in the industry.
+As a driven Computer Science graduate, I have a deep interest in Cybersecurity and Software Engineering. My studies and dedication have given me a strong foundation in these fields and their core technologies. I am actively seeking complex problems and opportunities to expand my skills and make a tangible contribution to the industry.
 
-My goal is to leverage my technical expertise and desire for progress to contribute to the success of organizations, guiding the future of technology in the meantime. I am eager to connect with like-minded professionals, share ideas, and collaborate on impactful projects. Let's join forces and make a difference!
+My goal is to apply my technical expertise and desire for growth to contribute to an organization's goals by helping to build and secure modern technology. I am eager to connect with like-minded professionals, share ideas, and collaborate on challenging projects.
 
 ---
 
@@ -19,7 +19,7 @@ My goal is to leverage my technical expertise and desire for progress to contrib
 
 ### Full-Stack Development Bootcamp (Mar 2023 – May 2023)
 **msg systems**
-- Developed a strong foundation in full-stack development, leveraging tools and technologies including Nest.js, Angular, Dockerized PostgreSQL, and AWS to build scalable, efficient, and robust applications.
+- Developed a strong foundation in full-stack development, using Nest.js, Angular, Dockerized PostgreSQL, and AWS to build reliable and performant applications.
 
 ### C2 Proficiency (CPE) (12 Jul 2019)
 **Cambridge Assessment English**
@@ -38,11 +38,11 @@ My goal is to leverage my technical expertise and desire for progress to contrib
 
 ### DevOps Engineer Intern (Jul 2023 – Aug 2023)
 **Nagarro**, Cluj-Napoca, Romania
-- Implemented automated CI/CD pipelines with Jenkins and Docker, enabling streamlined system deployments and seamless delivery processes.
-- Deployed Native Android apps via AppCenter, ensuring smooth delivery and user accessibility. Enhanced Angular code quality and maintainability by integrating SonarQube for static code analysis.
-- Leveraged Terraform to provision AWS infrastructure as code, ensuring scalability, reliability, and faster environment setup.
-- Enabled robust system monitoring using Prometheus and Grafana, providing real-time insights and proactive issue resolution for critical systems.
-- Orchestrated and efficiently managed containerized applications using Kubernetes and Helm charts, ensuring high availability and efficient resource utilization across diverse environments.
+- Implemented automated CI/CD pipelines with Jenkins and Docker, enabling faster system deployments and consistent delivery processes.
+- Deployed Native Android apps via AppCenter, facilitating smooth delivery and user accessibility. Enhanced Angular code quality and maintainability by integrating SonarQube for static code analysis.
+- Provisioned AWS infrastructure as code using Terraform, supporting scalability, reliability, and faster environment setup.
+- Configured robust system monitoring using Prometheus and Grafana, to gain real-time insights and support proactive issue resolution for critical systems.
+- Managed containerized applications using Kubernetes and Helm charts, to maintain high availability and efficient resource utilization across diverse environments.
 
 ---
 
